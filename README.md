@@ -31,3 +31,15 @@ Multi-device file sharing
 | Auto-Mounting on Boot | [docs/AUTO_MOUNT.md](docs/AUTO_MOUNT.md)               |
 | Troubleshooting       | [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md)     |
 | Network Discovery     | [docs/NETWORK_DISCOVERY.md](docs/NETWORK_DISCOVERY.md) |
+
+
+
+🛠 Technologies Used
+
+Ubuntu 22.04
+
+Samba (SMB server)
+
+CIFS auto-mounting
+
+gvfs (optional)
