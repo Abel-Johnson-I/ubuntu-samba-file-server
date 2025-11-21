@@ -43,3 +43,34 @@ Samba (SMB server)
 CIFS auto-mounting
 
 gvfs (optional)
+
+
+ubuntu-samba-file-server/
+│
+├── docs/
+│   ├── SERVER_SETUP.md
+│   │     ├─ Install Samba
+│   │     ├─ Create share folder
+│   │     └─ Configure smb.conf
+│   │
+│   ├── CLIENT_SETUP.md
+│   │     ├─ Linux client
+│   │     ├─ Windows client
+│   │     └─ macOS client
+│   │
+│   ├── AUTO_MOUNT.md
+│   │     ├─ fstab entry
+│   │     ├─ test mount
+│   │     └─ persistent mount
+│   │
+│   └── TROUBLESHOOTING.md
+│         ├─ Network issues
+│         ├─ Share name issues
+│         └─ Mount errors
+│
+└── configs/
+     └── smb.conf.example
+
+
+
+
